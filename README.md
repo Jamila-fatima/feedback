@@ -1,3 +1,3 @@
 # feedback
 
-published link:https://jamila-fatima.github.io/feedback/
+published link: https://jamila-fatima.github.io/feedback/
